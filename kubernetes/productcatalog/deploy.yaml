@@ -31,7 +31,7 @@ spec:
       serviceAccountName: opentelemetry-demo
       containers:
         - name: productcatalogservice
-          image: krasag/product-catalog:15968332067
+          image: krasag/product-catalog:15968539361
           imagePullPolicy: IfNotPresent
           ports:
             
